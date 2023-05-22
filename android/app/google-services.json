@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570422621463",
+    "project_id": "river-woodland-386721",
+    "storage_bucket": "river-woodland-386721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570422621463:android:37442f481ff584f667b352",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570422621463-imjde05omge9s99fb80dvhqm6r09m5vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZeZdeLbb-NputuKG8x8sS1XBnOdejJk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570422621463-imjde05omge9s99fb80dvhqm6r09m5vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
